@@ -18,7 +18,7 @@ Currently working on system development using Vue 3, Nuxt 3, Pinia and Tailwind 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## 🛠 Other Technologies  
+## 💻 Other Technologies  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
