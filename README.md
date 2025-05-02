@@ -23,7 +23,7 @@ Currently working on system development using Vue 3, Nuxt 3, Pinia and Tailwind 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angular&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
